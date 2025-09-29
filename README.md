@@ -6,11 +6,6 @@ The dataset is highly imbalanced, and the project explores various techniques to
 
 ---
 
-## 📂 Dataset
-- The dataset used is the **Kaggle Credit Card Fraud Detection Dataset** (European transactions in September 2013).  
-- It contains **284,807 transactions**, out of which only **492 are frauds (0.172%)**.
-
----
 
 ## 🛠️ Technologies Used
 - **Python**
